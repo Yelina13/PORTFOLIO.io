@@ -1,21 +1,29 @@
-# Astro Starter Kit: Portfolio
-
-```
-npm create astro@latest -- --template portfolio
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![portfolio](https://user-images.githubusercontent.com/assets/at-work.jpg)
+# PORTFOLIO.io
 
 
+# Hello, je suis Yélina! 👋
 
 
+## 🚀 About Me
+Je suis développeuse Back-End spécialisée en Symfony.
+Suite à une formation récente en développeuse web et mobile, je suis pas-sionnée par l’accessibilité et la qualité des outils informatiques.
+Grâce à mes expériences précédentes j’ai pu développer davantage ma capacité à travailler en équipe, de manière Agile et en tout autonomie. Je souhaiterais mettre mes compétences au profit d’une entreprise.
 
-## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## 🛠 Skills
+Curieuse, Créatrive, Autonome, Organisée, Dynamique, Polyvalence, Travail d'équipe
+
+
+![Logo](assets/at-work.png)
+
+
+## Screenshots
+
+![App Screenshot](images/capture-petit-ecran.jpg)
+
+![App Screenshot](images/capture-accueil.jpg)
+
+
+## Tech used
+
+HTML, CSS, JavaSrcipt
