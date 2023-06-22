@@ -14,7 +14,3 @@ Grâce à mes expériences précédentes j’ai pu développer davantage ma capa
 Curieuse, Créatrive, Autonome, Organisée, Dynamique, Polyvalence, Travail d'équipe
 
 
-## Photo
-
-![App public](assets/at-work.png)
-
